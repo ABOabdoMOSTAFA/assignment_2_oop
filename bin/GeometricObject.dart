@@ -6,7 +6,6 @@
 • argument constructor: create a GeometricObject with specified color and filled values
 • toString: method returns a string description of the object*/
 
-import 'Rectangle.dart';
 
 abstract class GeometricObject{
   String color;
