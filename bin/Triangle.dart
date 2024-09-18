@@ -32,7 +32,6 @@ Triangle.setValuesTri({this.side_1, this.side_2, this.side_3});
   }
 @override
   String toString() {
-    // TODO: implement toString
     return 'Triangle: side1 = $side_1, side2 = $side_2, side3 = $side_3 ';
   }
 }

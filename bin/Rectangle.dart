@@ -27,7 +27,6 @@ Rectangle.setValuesRec({this.height, this.width});
   }
   @override
   String toString() {
-    // TODO: implement toString
     return 'Rectangle: height :$height ,width :$width';
   }
 
